@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JSONQuery.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\_Playground\RunningCat\Intermediate\Build\Win64\StudioEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\_Playground\RunningCat\Plugins\JSONQuery-master\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\Module.JSONQuery.cpp.obj"
+"D:\Unreal Projects\_Playground\RunningCat\Plugins\JSONQuery-master\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\Module.JSONQuery.gen.cpp.obj"
+"D:\Unreal Projects\_Playground\RunningCat\Plugins\JSONQuery-master\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\PCLaunch.rc.res"
+/OUT:"D:\Unreal Projects\_Playground\RunningCat\Plugins\JSONQuery-master\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\UE4Editor-JSONQuery.lib"
